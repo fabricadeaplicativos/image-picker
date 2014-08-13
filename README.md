@@ -1,0 +1,3 @@
+# image-picker[![Build Status](https://secure.travis-ci.org/simonfan/image-picker.png?branch=master)](http://travis-ci.org/simonfan/image-picker)
+
+Some module...
